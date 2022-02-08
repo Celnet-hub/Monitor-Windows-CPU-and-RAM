@@ -1,0 +1,5 @@
+*.env
+/build
+*.spec
+/dist
+/__pycache__
